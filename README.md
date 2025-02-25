@@ -1,3 +1,4 @@
-# Aula02GitADS3
-# Aula02GitADS3
-# Aula02GitADS3
+# Aula Guit Hub
+Repositório criado para exemplo na aula de git da Unifaat
+
+Alteração efetuada na Maquina
